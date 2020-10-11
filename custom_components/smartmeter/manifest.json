@@ -1,0 +1,7 @@
+{
+  "domain": "smartmeter",
+  "name": "Smart Meter",
+  "documentation": "test",
+  "requirements": ["pyserial-asyncio==0.4"],
+  "codeowners": ["@dannerph"]
+}
